@@ -75,7 +75,7 @@ sudo apt install curl grep coreutils
 - Extrae el nombre final con **awk**
 - Permite seleccionar un binario
 - Descarga la página correspondiente en GTFOBins
-- Extrae los comandos explotables de '<pre><code>...</code></pre>'
+- Extrae los comandos explotables de ```<pre><code>...</code></pre>```
 - Muestra el resultado en la terminal
 
 ---
