@@ -23,8 +23,8 @@ Script en Bash que permite:
 ## Instalación
 
 ```
-git clone https://github.com/TU_USUARIO/gtfobins-suid-checker.git
-cd gtfobins-suid-checker
+git clone https://github.com/nestoree/GTFOBins_SUID_Checker
+cd GTFOBins_SUID_Checker
 chmod +x gtfobins.sh
 ```
 
